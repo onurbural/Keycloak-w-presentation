@@ -1,0 +1,125 @@
+﻿@page "/"
+@using ClientApp.Models
+@using ClientApp.RefitServices
+@using Refit
+
+@inject IRefitService _refitClient
+@inject HttpClient _HttpClient
+@inject IKeycloakService _keycloakService
+
+@if (!isLoggedIn)
+{
+    <PageTitle>Login</PageTitle>
+    <div>
+        <h3>Login</h3>
+        <div class="form-group">
+            <label for="username">Username:</label>
+            <input type="text" @bind="username" class="form-control" id="username" />
+        </div>
+        <div class="form-group">
+            <label for="password">Password:</label>
+            <input type="password" @bind="password" class="form-control" id="password" />
+        </div>
+        <button class="btn btn-primary" @onclick="Login">Login</button>
+    </div>
+}
+
+@if (havaDurumu != null && isLoggedIn)
+{
+    <PageTitle>Index</PageTitle>
+
+    <button class="btn btn-danger" @onclick="Logout">Çıkış Yap</button>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Tarih</th>
+                <th scope="col">Sıcaklık</th>
+                <th scope="col">Özet</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in havaDurumu)
+            {
+                <tr>
+                    <td>@item.Tarih</td>
+                    <td>@item.SicaklikC</td>
+                    <td>@item.Ozet</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private bool isLoggedIn = false;
+    private string username;
+    private string password;
+    private string? refreshToken;
+    private IEnumerable<HavaDurumu>? havaDurumu { get; set; }
+
+    private async Task Login()
+    {
+        try
+        {
+            Token token = await _keycloakService.TokenAl(new AuthApi()
+                {
+                    client_id = "myapp2",
+                    grant_type = "password",
+                    username = username,
+                    password = password,
+                    client_secret = "MPEj3jObpnwUKr9joNhCEnKGMFBj9CZ7"
+                });
+
+            if (!string.IsNullOrEmpty(token.access_token))
+            {
+                isLoggedIn = true;
+                refreshToken = token.refresh_token;
+
+                havaDurumu = await _refitClient.HavaDurumunuGetir($"{token.token_type} {token.access_token}");
+            }
+        }
+        catch (ApiException ex)
+        {
+            Console.WriteLine($"API Hatası: {ex.Message}");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Genel Hata: {ex.Message}");
+        }
+    }
+
+    private async Task Logout()
+    {
+        try
+        {
+            if (!string.IsNullOrEmpty(refreshToken))
+            {
+                var logoutContent = new FormUrlEncodedContent(new[]
+                {
+                    new KeyValuePair<string, string>("client_id", "myapp2"),
+                    new KeyValuePair<string, string>("client_secret", "MPEj3jObpnwUKr9joNhCEnKGMFBj9CZ7"),
+                    new KeyValuePair<string, string>("refresh_token", refreshToken)
+                });
+
+                var response = await _HttpClient.PostAsync("http://localhost:8080/realms/MyRealm/protocol/openid-connect/logout", logoutContent);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    isLoggedIn = false;
+                    havaDurumu = null;
+                    refreshToken = null;
+                    Console.WriteLine("Çıkış başarılı.");
+                }
+                else
+                {
+                    Console.WriteLine($"Çıkış başarısız: {response.ReasonPhrase}");
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Çıkış işlemi başarısız: {ex.Message}");
+        }
+    }
+}

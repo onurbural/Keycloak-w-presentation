@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Cpf5AKJoisZS+hJR8NTmN6d8TEjh2DCIt9uvzjt9CCg=",
+  "Source": "Keycloak.API",
+  "BasePath": "_content/Keycloak.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

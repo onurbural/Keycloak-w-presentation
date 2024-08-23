@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Keycloak.API\\Keycloak.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "ClientApp\\ClientApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
