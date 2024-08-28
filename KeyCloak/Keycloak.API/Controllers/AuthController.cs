@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Collections.Generic;
@@ -129,13 +129,20 @@ namespace Keycloak.API.Controllers
                 return StatusCode((int)response.StatusCode, $"Çıkış başarısız: {response.ReasonPhrase}");
             }
         }
-
         [HttpGet("giris-yapan-kullanicilar")]
         public IActionResult GirisYapmisKullanicilar()
         {
             _girisYapanKullaniciListesi.RemoveAll(u => u.TokenGecerlilikSuresi <= DateTime.Now);
-            return Ok(_girisYapanKullaniciListesi);
+
+            var result = new
+            {
+                Count = _girisYapanKullaniciListesi.Count, 
+                Users = _girisYapanKullaniciListesi        
+            };
+
+            return Ok(result);
         }
+
     }
 
     // Kullanıcı Modeli
@@ -143,24 +150,24 @@ namespace Keycloak.API.Controllers
     {
         public string KullaniciAdi { get; set; }
         public DateTime GirisZamani { get; set; }
-        public DateTime TokenGecerlilikSuresi { get; set; }  // Token'ın geçerlilik süresi
+        public DateTime TokenGecerlilikSuresi { get; set; }  
     }
 
-    // DTO for logout request
+    // Çıkış yap için DTO
     public class CikisIstegi
     {
         public string KullaniciAdi { get; set; }
         public string RefreshToken { get; set; }
     }
 
-    // DTO for authentication request
+    //Authentication isteği için DTO
     public class GirisIstegi
     {
         public string KullaniciAdi { get; set; }
         public string Sifre { get; set; }
     }
 
-    // DTO for token response
+    //Token response için DTO
     public class TokenDto
     {
         [JsonProperty("access_token")]
@@ -176,7 +183,7 @@ namespace Keycloak.API.Controllers
         public string TokenType { get; set; }
     }
 
-    // DTO for session count response
+    // Oturum sayısı için Dto
     public class OturumdakiKisiSayisi
     {
         [JsonProperty("count")]
