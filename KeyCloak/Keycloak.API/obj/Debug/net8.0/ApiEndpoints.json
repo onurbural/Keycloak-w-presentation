@@ -1,5 +1,57 @@
 [
   {
+    "ContainingType": "Keycloak.API.Controllers.AuthController",
+    "Method": "Cikis",
+    "RelativePath": "Auth/cikis",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logoutRequest",
+        "Type": "Keycloak.API.Controllers.CikisIstegi",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Keycloak.API.Controllers.AuthController",
+    "Method": "GirisYapmisKullanicilar",
+    "RelativePath": "Auth/giris-yapan-kullanicilar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Keycloak.API.Controllers.AuthController",
+    "Method": "OturumdakiKisiSayisiGetir",
+    "RelativePath": "Auth/oturumkisi-sayisi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Keycloak.API.Controllers.AuthController",
+    "Method": "TokenAl",
+    "RelativePath": "Auth/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "girisIstegi",
+        "Type": "Keycloak.API.Controllers.GirisIstegi",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Keycloak.API.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

@@ -2611,11 +2611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\ClientApp.csproj",
+      "projectUniqueName": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\ClientApp.csproj",
       "projectName": "ClientApp",
-      "projectPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\ClientApp.csproj",
+      "projectPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\ClientApp.csproj",
       "packagesPath": "C:\\Users\\PC_4176\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\obj\\",
+      "outputPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC_4176\\AppData\\Roaming\\NuGet\\NuGet.Config",

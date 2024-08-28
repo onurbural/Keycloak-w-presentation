@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EpF5Vf02AIjRfHK9Y6Xn07Mg4uj0Wnije1eNdzgOv82i3RAf9U7mWJvsczI9ZV5L3Yqk6XWnGFX+ftsqKdIpxA==",
+  "dgSpecHash": "DSeNZ3eQdJ7QCRNvgc1IrIpkN68GVzAW/bLs09y6Xm2lPC7ibT/4S0WsOQidILdr6Ol/VXDubCjCwcYlS2y14g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\Keycloak.API\\Keycloak.API.csproj",
+  "projectFilePath": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\Keycloak.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC_4176\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.8\\microsoft.aspnetcore.authentication.jwtbearer.8.0.8.nupkg.sha512",
     "C:\\Users\\PC_4176\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
@@ -13,6 +13,7 @@
     "C:\\Users\\PC_4176\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
     "C:\\Users\\PC_4176\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
     "C:\\Users\\PC_4176\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\PC_4176\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\PC_4176\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\PC_4176\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\PC_4176\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

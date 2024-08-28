@@ -1,57 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\",
+  "WorkspaceRootPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\clientapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\keycloak.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|solutionrelative:keycloak.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\clientapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\keycloak.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|solutionrelative:keycloak.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\keycloak.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\keycloak.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|solutionrelative:keycloak.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\keycloak.api\\havadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|solutionrelative:keycloak.api\\havadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\keycloak.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|solutionrelative:keycloak.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\clientapp\\models\\havadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\models\\havadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\clientapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\clientapp\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\clientapp\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\clientapp\\models\\authapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\clientapp\\models\\havadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\models\\havadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\clientapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\keycloak.api\\havadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|solutionrelative:keycloak.api\\havadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\clientapp\\models\\authapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\models\\authapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\clientapp\\services\\ikeycloakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\clientapp\\services\\ikeycloakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\services\\ikeycloakservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\clientapp\\services\\irefitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\clientapp\\services\\irefitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCE8194A-C278-439D-8042-1DBF3C64FCB0}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\services\\irefitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\keycloak.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\keycloak.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|solutionrelative:keycloak.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak\\keycloak\\keycloak.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|c:\\users\\pc_4176\\desktop\\git\\keycloak-w-presentation\\keycloak\\keycloak.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{379D1BB5-9617-42A1-A13E-54C91DE840B1}|Keycloak.API\\Keycloak.API.csproj|solutionrelative:keycloak.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,24 +74,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "ClientApp\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "ClientApp\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-23T07:47:23.898Z",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Keycloak.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Keycloak.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:05:15.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Token.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Models\\Token.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Models\\Token.cs",
               "RelativeDocumentMoniker": "ClientApp\\Models\\Token.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Models\\Token.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Models\\Token.cs",
               "RelativeToolTip": "ClientApp\\Models\\Token.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,37 +99,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Program.cs",
               "RelativeDocumentMoniker": "ClientApp\\Program.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Program.cs",
               "RelativeToolTip": "ClientApp\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAACAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T08:17:34.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T08:17:34.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "ClientApp\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Pages\\Home.razor",
               "RelativeToolTip": "ClientApp\\Pages\\Home.razor",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAwwH0AAAAAAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAHsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T08:20:21.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T08:20:21.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AuthApi.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Models\\AuthApi.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Models\\AuthApi.cs",
               "RelativeDocumentMoniker": "ClientApp\\Models\\AuthApi.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Models\\AuthApi.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Models\\AuthApi.cs",
               "RelativeToolTip": "ClientApp\\Models\\AuthApi.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,23 +135,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\Keycloak.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\Program.cs",
               "RelativeDocumentMoniker": "Keycloak.API\\Program.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\Keycloak.API\\Program.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\Program.cs",
               "RelativeToolTip": "Keycloak.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAwwGoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T08:33:43.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IKeycloakService.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Services\\IKeycloakService.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Services\\IKeycloakService.cs",
               "RelativeDocumentMoniker": "ClientApp\\Services\\IKeycloakService.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Services\\IKeycloakService.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Services\\IKeycloakService.cs",
               "RelativeToolTip": "ClientApp\\Services\\IKeycloakService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\Keycloak.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\appsettings.json",
               "RelativeDocumentMoniker": "Keycloak.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\Keycloak.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\appsettings.json",
               "RelativeToolTip": "Keycloak.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -169,23 +171,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\Keycloak.API\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Keycloak.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\Keycloak.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Keycloak.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T08:38:56.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\Keycloak.API\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Keycloak.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\Keycloak.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "Keycloak.API\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -193,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IRefitService.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Services\\IRefitService.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Services\\IRefitService.cs",
               "RelativeDocumentMoniker": "ClientApp\\Services\\IRefitService.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Services\\IRefitService.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Services\\IRefitService.cs",
               "RelativeToolTip": "ClientApp\\Services\\IRefitService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "HavaDurumu.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\Keycloak.API\\HavaDurumu.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\HavaDurumu.cs",
               "RelativeDocumentMoniker": "Keycloak.API\\HavaDurumu.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\Keycloak.API\\HavaDurumu.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\Keycloak.API\\HavaDurumu.cs",
               "RelativeToolTip": "Keycloak.API\\HavaDurumu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,15 +219,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "HavaDurumu.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Models\\HavaDurumu.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Models\\HavaDurumu.cs",
               "RelativeDocumentMoniker": "ClientApp\\Models\\HavaDurumu.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak\\KeyCloak\\ClientApp\\Models\\HavaDurumu.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Models\\HavaDurumu.cs",
               "RelativeToolTip": "ClientApp\\Models\\HavaDurumu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T08:14:47.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ClientApp\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Keycloak-w-presentation\\KeyCloak\\ClientApp\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ClientApp\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T07:47:23.898Z"
             }
           ]
         }
