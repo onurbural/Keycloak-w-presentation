@@ -83,7 +83,6 @@ namespace Keycloak.API.Controllers
 
             var requestUrl = "http://localhost:8080/admin/realms/MyRealm/clients/dd2f2f4c-5067-47c5-bcd7-0fbf870d608a/session-count";
 
-            // Token'ı Authorization başlığına ekliyoruz
             _httpClient.DefaultRequestHeaders.Clear();
             _httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {_erisimTokeni}");
 
